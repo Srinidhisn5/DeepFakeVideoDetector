@@ -74,22 +74,22 @@ http://localhost:5000
 
 ### 📸 Screenshots
 
-<p align="center"> 
-  <img src="screenshots/screenshot_16.png" alt="Intro Animation" width="300"/> 
-  <img src="screenshots/screenshot_17.png" alt="Upload Page" width="300"/> 
-  <img src="screenshots/screenshot_19.png" alt="Path Page" width="300"/> 
-</p>  
+<p align="center">
+  <img src="screenshots/Screenshot (16).png" alt="Intro Animation" width="300"/>
+  <img src="screenshots/Screenshot (17).png" alt="Upload Page" width="300"/>
+  <img src="screenshots/Screenshot (19).png" alt="Path Page" width="300"/>
+</p>
 
-<p align="center"> 
-  <em>Intro Animation &nbsp;&nbsp;&nbsp; Upload Page &nbsp;&nbsp;&nbsp; Path Page</em> 
-</p>  
+<p align="center">
+  <em>Intro Animation &nbsp;&nbsp;&nbsp; Upload Page &nbsp;&nbsp;&nbsp; Path Page</em>
+</p>
 
-<p align="center"> 
-  <img src="screenshots/screenshot_20.png" alt="Result Page" width="300"/> 
-</p>  
+<p align="center">
+  <img src="screenshots/Screenshot (20).png" alt="Result Page" width="300"/>
+</p>
 
-<p align="center"> 
-  <em>Result Page</em> 
+<p align="center">
+  <em>Result Page</em>
 </p>
 
 ---
