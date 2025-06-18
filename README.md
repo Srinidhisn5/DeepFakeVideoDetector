@@ -85,7 +85,18 @@ http://localhost:5000
     <td><em>Upload Page</em></td>
     <td><em>Path Page</em></td>
   </tr>
+  <tr>
+    <td><img src="screenshots/Screenshot (20).png" width="300"/></td>
+    <td><img src="screenshots/Screenshot (21).png" width="300"/></td>
+    <td></td>
+  </tr>
+  <tr align="center">
+    <td><em>Result Page</em></td>
+    <td><em>Extra Screenshot</em></td>
+    <td></td>
+  </tr>
 </table>
+
 
 ---
 
