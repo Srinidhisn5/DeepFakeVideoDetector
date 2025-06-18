@@ -1,5 +1,6 @@
 🎭 DeepFake Video Detection
 This project is a full-stack web application that uses a pre-trained neural network model to determine whether an uploaded video is real or deepfake. Built using Flask, it supports local and cloud deployment
+
 🚀 Environment Setup
 # Create & activate conda environment
 conda create -n deepfakedetection python=3.10
@@ -15,6 +16,7 @@ pip install -r requirements.txt
 bash
 Copy
 Edit
+
 # Run the Flask web app
 python app.py
 Then open your browser and visit:
@@ -55,8 +57,32 @@ DeepFakeVideoDetection/
 ├── notebook/
 │   └── *.ipynb               # Jupyter notebooks (for experiments)
 └── README.md
-🖼 Preview
-<p align="center"> <img src="screenshots/screenshot_16.png" alt="Intro Animation" width="300"/> <br><em>Intro Animation</em> </p> <p align="center"> <img src="screenshots/screenshot_17.png" alt="Upload Page" width="300"/> <br><em>Upload Page</em> </p> <p align="center"> <img src="screenshots/screenshot_19.png" alt="Path Page" width="300"/> <br><em>Path Page</em> </p> <p align="center"> <img src="screenshots/screenshot_20.png" alt="File Page" width="300"/> <br><em>File Page</em> </p>
+
+<p align="center">
+  <img src="screenshots/screenshot_16.png" alt="Intro Animation" width="300"/><br>
+  <em>Intro Animation</em>
+</p>
+
+<p align="center">
+  <img src="screenshots/screenshot_17.png" alt="Upload Page" width="300"/><br>
+  <em>Upload Page</em>
+</p>
+
+<p align="center">
+  <img src="screenshots/screenshot_19.png" alt="Path Page" width="300"/><br>
+  <em>Path Page</em>
+</p>
+
+<p align="center">
+  <img src="screenshots/screenshot_20.png" alt="File Page" width="300"/><br>
+  <em>File Page</em>
+</p>
+
+<p align="center">
+  <img src="screenshots/screenshot_21.png" alt="File Page" width="300"/><br>
+  <em>Result Page</em>
+</p>
+
 
 🔗 Technologies Used
 
