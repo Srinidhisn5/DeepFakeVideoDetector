@@ -95,8 +95,7 @@ python app.py
 <h3>🖼 Preview</h3>
 
 <p>
-  <img src="![Uploading Screenshot (16).png…]()
-" alt="Intro Animation" width="300"/>
+  <img src=""C:\Users\wwwsr\Pictures\Screenshots\Screenshot (16).png"" alt="Intro Animation" width="300"/>
   <br><em>Intro Animation</em>
 </p>
 
