@@ -76,29 +76,7 @@ http://localhost:5000
 
 ### 📸 Screenshots
 
-<table align="center">
-  <tr>
-    <td><img src="screenshots/Screenshot (16).png" width="300"/></td>
-    <td><img src="screenshots/Screenshot (17).png" width="300"/></td>
-    <td><img src="screenshots/Screenshot (19).png" width="300"/></td>
-  </tr>
-  <tr align="center">
-    <td><em>Intro Animation</em></td>
-    <td><em>Upload Page</em></td>
-    <td><em>Path Page</em></td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/Screenshot (20).png" width="300"/></td>
-    <td><img src="screenshots/Screenshot (21).png" width="300"/></td>
-    <td></td>
-  </tr>
-  <tr align="center">
-    <td><em>Result Page</em></td>
-    <td><em>Output Screenshot</em></td>
-    <td></td>
-  </tr>
-</table>
-
+<p align="center"> <img src="screenshots/Screenshot (16).png" width="300"/><br> <em>Intro Animation</em> </p> <p align="center"> <img src="screenshots/Screenshot (17).png" width="300"/><br> <em>Upload Page</em> </p> <p align="center"> <img src="screenshots/Screenshot (19).png" width="300"/><br> <em>Path Page</em> </p> <p align="center"> <img src="screenshots/Screenshot (20).png" width="300"/><br> <em>Result Page</em> </p> <p align="center"> <img src="screenshots/Screenshot (21).png" width="300"/><br> <em>Output Screenshot</em> </p>
 
 
 ---
