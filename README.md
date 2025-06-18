@@ -43,69 +43,86 @@ DeepFakeVideoDetection/
 │   └── screenshot_20.png       # Result Page  
 └── README.md                   # This file
 ```
-⚙️ Installation
-🔹 1. Clone the Repository
+## ⚙️ Installation  
+
+### 🔹 1. Clone the Repository  
+
+```bash
 git clone https://github.com/YourUsername/DeepFakeVideoDetection.git  
 cd DeepFakeVideoDetection
-🔹 2. Set Up Environment
+```
+### 🔹 2. Set Up Environment  
+
 Install Anaconda and run:
+
+```bash
 conda create -n deepfakedetection python=3.10  
 conda activate deepfakedetection  
-pip install -r requirements.txt  
-🔹 3. Run the Application
-python app.py  
-Then open your browser and go to:
-➡️ http://localhost:5000
-
+pip install -r requirements.txt
 ```
+### 🔹 3. Run the Application
+
+
+```bash
+python app.py
+```
+Then open your browser and go to:
+```bash
+http://localhost:5000
+```
+
+
+### 📸 Screenshots
+
+<p align="center"> 
+  <img src="screenshots/screenshot_16.png" alt="Intro Animation" width="300"/> 
+  <img src="screenshots/screenshot_17.png" alt="Upload Page" width="300"/> 
+  <img src="screenshots/screenshot_19.png" alt="Path Page" width="300"/> 
+</p>  
+
+<p align="center"> 
+  <em>Intro Animation &nbsp;&nbsp;&nbsp; Upload Page &nbsp;&nbsp;&nbsp; Path Page</em> 
+</p>  
+
+<p align="center"> 
+  <img src="screenshots/screenshot_20.png" alt="Result Page" width="300"/> 
+</p>  
+
+<p align="center"> 
+  <em>Result Page</em> 
+</p>
+
 ---
 
-## 📸 Screenshots
+### 🔮 Future Enhancements
+✅ Allow multi-frame video preview
 
-<p align="center">
-  <img src="screenshots/screenshot_16.png" alt="Intro Animation" width="300"/>
-  <img src="screenshots/screenshot_17.png" alt="Upload Page" width="300"/>
-  <img src="screenshots/screenshot_19.png" alt="Path Page" width="300"/>
-</p>
+✅ Optimize model inference speed
 
-<p align="center">
-  <em>Intro Animation &nbsp;&nbsp;&nbsp; Upload Page &nbsp;&nbsp;&nbsp; Path Page</em>
-</p>
+✅ Add support for YouTube URL input
 
-<p align="center">
-  <img src="screenshots/screenshot_20.png" alt="Result Page" width="300"/>
-</p>
+✅ Show detailed explanation with frame heatmaps
 
-<p align="center">
-  <em>Result Page</em>
-</p>
+✅ Deploy to Streamlit or HuggingFace Spaces
 
-## 🔮 Future Enhancements
+✅ Add login/register for tracking analysis history
 
-- ✅ Allow multi-frame video preview  
-- ✅ Optimize model inference speed  
-- ✅ Add support for YouTube URL input  
-- ✅ Show detailed explanation with frame heatmaps  
-- ✅ Deploy to Streamlit or HuggingFace Spaces  
-- ✅ Add login/register for tracking analysis history  
+---
 
-## 🧠 Technologies Used
+### 🧠 Technologies Used
 
-- **Frontend:** HTML5, CSS3, JavaScript  
-- **Backend:** Flask (Python)  
-- **Model:** GRU (Gated Recurrent Unit)  
-- **Deployment:** Heroku-compatible  
-- **Data:** Kaggle DeepFake Detection Dataset  
-- **Tools:** Anaconda, OpenCV, Keras  
+- Frontend: HTML5, CSS3, JavaScript
 
-## 👨‍💻 Developer
+- Backend: Flask (Python)
 
-**Srinidhi SN**  
-GitHub: [@Srinidhisn5](https://github.com/Srinidhisn5)
+- Model: GRU (Gated Recurrent Unit)
 
+- Deployment: Heroku-compatible
 
+- Data: Kaggle DeepFake Detection Dataset
 
+- Tools: Anaconda, OpenCV, Keras
 
-
-
-
+---
+### 👨‍💻 Developer
+- Srinidhi SN
