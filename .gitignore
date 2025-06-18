@@ -1,0 +1,13 @@
+# Ignore virtual environment
+venv38/
+
+# Ignore IDE folders
+.idea/
+__pycache__/
+*.pyc
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore dataset (optional)
+dataset/
