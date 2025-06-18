@@ -72,6 +72,8 @@ http://localhost:5000
 ```
 
 ---
+
+
 ### 📸 Screenshots
 
 <table align="center">
@@ -88,12 +90,10 @@ http://localhost:5000
   <tr>
     <td><img src="screenshots/Screenshot (20).png" width="300"/></td>
     <td><img src="screenshots/Screenshot (21).png" width="300"/></td>
-    <td></td>
   </tr>
   <tr align="center">
     <td><em>Result Page</em></td>
-    <td><em>Extra Screenshot</em></td>
-    <td></td>
+    <td><em>Output Screenshot</em></td>
   </tr>
 </table>
 
