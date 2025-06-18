@@ -1,96 +1,73 @@
-🎭 DeepFake Video Detection
-This project is a full-stack web application that uses a pre-trained neural network model to determine whether an uploaded video is real or deepfake. Built using Flask, it supports local and cloud deployment
+🎭 DeepFake Video Detection – AI-Powered Video Forensics  
+A full-stack AI web application that detects whether a video is real or deepfake using a GRU-based deep learning model. Built with Flask, HTML/CSS, and JavaScript. Features an animated glitch-style UI and supports both local and cloud deployment.
 
-🚀 Environment Setup
-# Create & activate conda environment
-conda create -n deepfakedetection python=3.10
-conda activate deepfakedetection
+---
 
-# Navigate to project directory
+🚀 Features  
+🔍 Upload & Analyze Any Video File  
+🧠 GRU Neural Network-Based DeepFake Detection  
+📈 Confidence Level of Prediction  
+📸 Real-Time Feedback with Animated UI  
+🧰 Flask Backend + Jinja Templating  
+💾 Model Trained on Kaggle DeepFake Dataset  
+☁️ Easy Cloud Deployment via Heroku
+
+---
+
+📂 Project Structure  
+📁 DeepFakeVideoDetection                # Root project folder  
+│  
+├── app.py                              # Flask backend entry point  
+├── requirements.txt                    # Python dependencies  
+├── Procfile                            # Heroku deployment config  
+│  
+├── templates/                          # Jinja2 HTML templates  
+│   ├── index.html                      # Landing page  
+│   ├── upload.html                     # Upload page  
+│   ├── result.html                     # Prediction result page  
+│  
+├── static/                             # Static files (CSS, JS, Animations)  
+│   ├── css/                            # Stylesheets  
+│   │   └── style.css  
+│   └── js/                             # Scripts  
+│       └── main.js  
+│  
+├── model/                              # ML model  
+│   └── deepfake_video_model.h5         # Pre-trained GRU model  
+│  
+├── dataset/                            # Sample data  
+│   └── sample_submission.csv  
+│  
+├── screenshots/                        # Screenshots for README  
+│   ├── screenshot_16.png               # Intro Animation  
+│   ├── screenshot_17.png               # Upload Page  
+│   ├── screenshot_19.png               # Path Page  
+│   └── screenshot_20.png               # Result Page  
+│  
+└── README.md                           # This file
+
+---
+
+⚙️ Installation  
+🔹 1. Clone the Repository  
+```bash
+git clone https://github.com/YourUsername/DeepFakeVideoDetection.git  
 cd DeepFakeVideoDetection
 
-# Install dependencies
-pip install -r requirements.txt
+🔹 2. Set Up Environment
+Install Anaconda and run:
 
-🖥 How to Run
 bash
 Copy
 Edit
+conda create -n deepfakedetection python=3.10  
+conda activate deepfakedetection  
+pip install -r requirements.txt  
+🔹 3. Run the Application
 
-# Run the Flask web app
-python app.py
-Then open your browser and visit:
-➡️ http://127.0.0.1:5000/
-
-💡 Features
-📂 Upload and analyze videos for deepfake detection
-
-🤖 Real vs Fake prediction using a trained GRU-based deep learning model
-
-📊 Displays confidence level of prediction
-
-🎨 Stylish glitch-themed animated interface
-
-🧠 Model pre-trained on Kaggle deepfake datasets
-
-☁️ Easily deployable locally or to the cloud
-
-📁 Folder Structure
-php
+bash
 Copy
 Edit
-DeepFakeVideoDetection/
-├── app.py                     # Main Flask backend script
-├── requirements.txt          # Python dependencies
-├── Procfile                  # For cloud deployment (e.g., Heroku)
-├── templates/                # HTML templates (Jinja2)
-│   └── *.html
-├── static/                   # Static files (CSS, JS, animations)
-│   ├── css/
-│   └── js/
-├── model/
-│   └── deepfake_video_model.h5  # Pre-trained GRU model
-├── dataset/
-│   └── sample_submission.csv (optional)
-├── screenshots/
-│   └── screenshot_*.png      # Screenshots used in README
-├── notebook/
-│   └── *.ipynb               # Jupyter notebooks (for experiments)
-└── README.md
+python app.py  
+Then visit: http://localhost:5000
 
-<p align="center">
-  <img src="screenshots/screenshot_16.png" alt="Intro Animation" width="300"/><br>
-  <em>Intro Animation</em>
-</p>
-
-<p align="center">
-  <img src="screenshots/screenshot_17.png" alt="Upload Page" width="300"/><br>
-  <em>Upload Page</em>
-</p>
-
-<p align="center">
-  <img src="screenshots/screenshot_19.png" alt="Path Page" width="300"/><br>
-  <em>Path Page</em>
-</p>
-
-<p align="center">
-  <img src="screenshots/screenshot_20.png" alt="File Page" width="300"/><br>
-  <em>File Page</em>
-</p>
-
-<p align="center">
-  <img src="screenshots/screenshot_21.png" alt="File Page" width="300"/><br>
-  <em>Result Page</em>
-</p>
-
-
-🔗 Technologies Used
-
-Frontend    → HTML5, CSS3, JavaScript, Animated UI
-Backend     → Python, Flask
-Model       → GRU (Gated Recurrent Unit) Neural Network
-Deployment  → Works on Localhost, Cloud-ready (e.g., Heroku)
-Others      → Anaconda (Environment Management)
-
-👨‍💻 Author
-Srinidhi SN
