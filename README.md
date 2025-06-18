@@ -71,28 +71,22 @@ Then open your browser and go to:
 http://localhost:5000
 ```
 
-
+---
 ### 📸 Screenshots
 
-<p align="center">
-  <img src="screenshots/Screenshot (16).png" alt="Intro Animation" width="300"/>
-  <br><em>Intro Animation</em>
-</p>
+<table align="center">
+  <tr>
+    <td><img src="screenshots/Screenshot (16).png" width="300"/></td>
+    <td><img src="screenshots/Screenshot (17).png" width="300"/></td>
+    <td><img src="screenshots/Screenshot (19).png" width="300"/></td>
+  </tr>
+  <tr align="center">
+    <td><em>Intro Animation</em></td>
+    <td><em>Upload Page</em></td>
+    <td><em>Path Page</em></td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="screenshots/Screenshot (17).png" alt="Upload Page" width="300"/>
-  <br><em>Upload Page</em>
-</p>
-
-<p align="center">
-  <img src="screenshots/Screenshot (19).png" alt="Path Page" width="300"/>
-  <br><em>Path Page</em>
-</p>
-
-<p align="center">
-  <img src="screenshots/Screenshot (20).png" alt="Result Page" width="300"/>
-  <br><em>Result Page</em>
-</p>
 ---
 
 ### 🔮 Future Enhancements
