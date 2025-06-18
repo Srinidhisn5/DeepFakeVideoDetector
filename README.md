@@ -19,6 +19,7 @@ cd path/to/DeepFakeVideoDetection
   <br><em>Intro Animation</em>
 </p>
 
+<<<<<<< HEAD
 <p align="center">
   <img src="screenshots/Screenshot (17).png" alt="Upload Page" width="300"/>
   <br><em>Upload Page</em>
@@ -32,4 +33,29 @@ cd path/to/DeepFakeVideoDetection
 <p align="center">
   <img src="screenshots/Screenshot (20).png" alt="File Page" width="300"/>
   <br><em>File Page</em>
+=======
+# Step 4: Run the application
+python app.py
+>>>>>>> 025aaa50a09fcdc5e469a638bcda4b2e4f57d210
+<h3>🖼 Preview</h3>
+
+<p>
+  <img src=""C:\Users\wwwsr\Pictures\Screenshots\Screenshot (16).png"" alt="Intro Animation" width="300"/>
+  <br><em>Intro Animation</em>
+</p>
+
+<p>
+  <img src="screenshots/home.png" alt="Home Page" width="300"/>
+  <br><em>Home Page</em>
+</p>
+
+<p>
+  <img src="screenshots/cart.png" alt="Cart Page" width="300"/>
+  <br><em>Cart Page</em>
+</p>
+
+<p>
+  <img src="screenshots/admin_dashboard.png" alt="Admin Dashboard" width="300"/>
+  <br><em>Admin Dashboard</em>
+>>>>>>> 5d5d2b3b265f90994089867669cf0eb04377f457
 </p>
