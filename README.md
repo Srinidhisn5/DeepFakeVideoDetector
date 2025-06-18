@@ -37,22 +37,7 @@ cd path/to/DeepFakeVideoDetection
 # Step 4: Run the application
 python app.py
 >>>>>>> 025aaa50a09fcdc5e469a638bcda4b2e4f57d210
-<h3>🖼 Preview</h3>
 
-<p>
-  <img src=""C:\Users\wwwsr\Pictures\Screenshots\Screenshot (16).png"" alt="Intro Animation" width="300"/>
-  <br><em>Intro Animation</em>
-</p>
-
-<p>
-  <img src="screenshots/home.png" alt="Home Page" width="300"/>
-  <br><em>Home Page</em>
-</p>
-
-<p>
-  <img src="screenshots/cart.png" alt="Cart Page" width="300"/>
-  <br><em>Cart Page</em>
-</p>
 
 <p>
   <img src="screenshots/admin_dashboard.png" alt="Admin Dashboard" width="300"/>
